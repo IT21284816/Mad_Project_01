@@ -13,7 +13,7 @@ class payment_form : AppCompatActivity() {
         this.window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getSupportActionBar()?.hide();
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.payment_complete)
+        setContentView(R.layout.payment_otp)
 
 
     }

@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">Payment</string>
     <string name="serch">Card Type</string>
+    <string name="btnDone" />
+    <string name="txtComplete" />
+    <string name="btnOTP" />
+    <string name="inputOTP">OTP</string>
+    <string name="btnSubmit" />
+    <string name="txtPayment" />
+    <string name="btnPaynow" />
+    <string name="txtCardNum" />
+    <string name="txtName" />
+    <string name="txtDate" />
+    <string name="txtCVV" />
+    <string name="btnDelete" />
+    <string name="btnEdit" />
+    <string name="inputCardNum">Card Number</string>
+    <string name="inputName">Card Name</string>
+    <string name="inputDate">DD/MM</string>
+    <string name="inputCVV">CVV</string>
+    <string name="btnNext" />
+    <string name="serchPayType">Search...</string>
+    <string name="txtCardType" />
 
 </resources>
